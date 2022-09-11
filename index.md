@@ -11,9 +11,9 @@
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
-Github Account:	joshuanadeak
-<br>
 Name:		Joshua Mihai Daniel Nadeak
+<br>
+Github Account:	joshuanadeak
 <br>
 Student ID:	2106635285
 <br>
