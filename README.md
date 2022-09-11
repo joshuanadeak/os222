@@ -7,5 +7,3 @@ Hello! Welcome to my GitHub Page for Operating Systems 2022-2 (Odd Semester 22/2
 📎[GitHub Repo](https://github.com/joshuanadeak/os222/)
 <br><br>
 <span style="color:blue; font-weight:bold; font-size:larger;"><i>Have A Nice Day!</i></span>
-<hr>
-Version: {{ site.version }}
