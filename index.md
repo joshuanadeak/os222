@@ -5,11 +5,11 @@
 <br><br>
 Hello! Welcome to my GitHub Page for Operating Systems 2022-2 (Odd Semester 22/23)
 <br><br>
-💻[HOME]({{ site.baseurl }}/) ---
-🔗[LINKS]({{ site.baseurl }}/LINKS/) ---
-💡[TIPS]({{ site.baseurl }}/TIPS/) ---
-📄[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-✒️[TARBALL]({{ site.tarballlink }}) ---
+💻[HOME]({{ site.baseurl }}/) -•-
+🔗[LINKS]({{ site.baseurl }}/LINKS/) -•-
+💡[TIPS]({{ site.baseurl }}/TIPS/) -•-
+📄[LOG]({{ site.baseurl }}{{ site.myloglink }}) -•-
+✒️[TARBALL]({{ site.tarballlink }}) -•-
 📎[GITHUB]({{ site.githublink }})
 <br>
 <hr>
