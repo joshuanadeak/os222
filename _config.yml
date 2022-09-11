@@ -1,0 +1,14 @@
+version:      "11-Sep-2022"
+copyright:    "2022"
+author:       "joshuanadeak"
+name:         "Joshua Mihai Daniel Nadeak"
+title:        "OS222: Operating Systems 2022-2"
+githublink:   "https://github.com/joshuanadeak/os222"
+myloglink:    "/TXT/mylog.txt"
+myupdatelink:	"/TXT/myupdate.txt"
+tarballlink:  "https://os.vlsm.org/Log/joshuanadeak.tar.bz2.txt"
+encoding:     UTF-8
+markdown:     kramdown
+input:        GFM
+hard_wrap:    false
+github:       [metadata]
