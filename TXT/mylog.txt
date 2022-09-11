@@ -1,11 +1,22 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 60 L00 General, etc.
-ZCZC W00 70 L01 SCELE/Discord related
-ZCZC W00 210 L02 ZOOM meetings related
-ZCZC W00 20 L03 GitHub related
-ZCZC W00 45 L04 GitHub Pages related
-ZCZC W00 23 L05 QUIZ related, including a little exercise beforehand
-ZCZC W00 100 L06 Books/GSGS related learning
-ZCZC W00 70 L09 Weekly Assignments
+ZCZC W00  60 L00 General, etc.
+ZCZC W00  70 L01 SCELE/Discord related.
+ZCZC W00 210 L02 ZOOM meetings related.
+ZCZC W00  20 L03 GitHub related.
+ZCZC W00  45 L04 GitHub Pages related.
+ZCZC W00  23 L05 QUIZ related, including a little exercise beforehand.
+ZCZC W00 100 L06 Books/GSGS related learning.
+ZCZC W00  70 L09 Weekly Assignments.
+ZCZC W01  60 L00 General, etc.
+ZCZC W01  50 L01 SCELE/Discord related.
+ZCZC W01 100 L02 ZOOM meeting related (Tuesday).
+ZCZC W01 100 L02 ZOOM meeting related (Thursday).
+ZCZC W01  30 L03 GitHub related (4 Git Mantras).
+ZCZC W01  45 L04 GitHub Pages related (Updating Stuff, Such As Tarball In the GHP).
+ZCZC W01   3 L05 QUIZ related.
+ZCZC W01  40 L05 A Little Exercise Before The Quiz.
+ZCZC W01 120 L06 Books/GSGS related learning.
+ZCZC W01  20 L07 Demo Related (Asistensi).
+ZCZC W01 300 L11 Setup a VirtualBox Debian Guest.
