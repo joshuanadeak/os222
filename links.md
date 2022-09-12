@@ -20,7 +20,7 @@ This article is about Linux as a whole, while also giving a little bit of review
 2. 🏭[What Is A Virtual Machine?](https://www.stackpath.com/edge-academy/what-are-edge-vms/)🏭<br>
 This is an article that is writing about virtualization and virtual machine on an introductory level. I've picked this article, because the understanding of VM's are very crucial in this course. This is a very good article for beginners to actually give them an idea on understanding Virtual Machines.
 
-3. 💾[Bash in 100 Seconds]💾(https://youtu.be/I4EWvMFj37g)<br>
+3. 💾[Bash in 100 Seconds](https://youtu.be/I4EWvMFj37g)💾<br>
 This is a short (100 second to be precise) video about bash as a whole. This is a very good video for beginners to understand the purpose of Bash and how Bash works as a concept.
 
 <br>
