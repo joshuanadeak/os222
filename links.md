@@ -14,55 +14,14 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, sore wa tempura hokben.
+1. 💻[Introduction To Linux Operating System](https://www.guru99.com/introduction-linux.html)💻<br>
+This article is about Linux as a whole, while also giving a little bit of review on operating system. It explains about the history of Linux, the purpose of Linux as an OS, also the benefits when we use Linux. It gives me a big picture of what and how Linux is as a whole in a more friendly sense.
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+2. 🏭[What Is A Virtual Machine?](https://www.stackpath.com/edge-academy/what-are-edge-vms/)🏭<br>
+This is an article that is writing about virtualization and virtual machine on an introductory level. I've picked this article, because the understanding of VM's are very crucial in this course. This is a very good article for beginners to actually give them an idea on understanding Virtual Machines.
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
-
-4. [Four](https://en.wikipedia.org/wiki/4)<br>
-Powder donut cheesecake wafer.
-I love sugar plum brownie tart apple pie macaroon.
-Donut wafer dragée pudding.
-
-5. [Five](https://en.wikipedia.org/wiki/5)<br>
-Soufflé I love gingerbread marshmallow cake I love applicake.
-Sugar plum I love jelly beans powder jelly beans.
-Ice cream ice cream cupcake liquorice I love.
-
-6. [Six](https://en.wikipedia.org/wiki/6)<br>
-Pastry sweet roll applicake bear claw donut sweet roll.
-Chocolate carrot cake I love sesame snaps.
-Pudding pudding chocolate cake croissant donut pastry pie cupcake cookie.
-
-7. [Seven](https://en.wikipedia.org/wiki/7)<br>
-Bonbon chupa chups cupcake bonbon lemon drops.
-Sweet bonbon biscuit jujubes pastry bonbon cookie croissant.
-Danish chupa chups I love cupcake.
-
-8. [Eight](https://en.wikipedia.org/wiki/8)<br>
-Tootsie roll I love soufflé I love chocolate.
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-
-9. [Nine](https://en.wikipedia.org/wiki/9)<br>
-KFC urna libero, in purus hana masa, tempor hokben lorem.
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-
-10. [Ten](https://en.wikipedia.org/wiki/10)<br>
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
-Sweet bonbon biscuit jujubes pastry bonbon cookie croissant.
-Danish chupa chups I love cupcake.
+3. 💾[Bash in 100 Seconds]💾(https://youtu.be/I4EWvMFj37g)<br>
+This is a short (100 second to be precise) video about bash as a whole. This is a very good video for beginners to understand the purpose of Bash and how Bash works as a concept.
 
 <br>
 <hr>
