@@ -4,6 +4,7 @@ permalink: LINKS/
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
 Hello! Welcome to the Links Part of my GitHub Page for Operating Systems 2022-2 (Odd Semester 22/23)
+<br><br>
 💻[HOME]({{ site.baseurl }}/) -•-
 🔗[LINKS]({{ site.baseurl }}/LINKS/) -•-
 💡[TIPS]({{ site.baseurl }}/TIPS/) -•-
