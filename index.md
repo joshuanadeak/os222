@@ -8,18 +8,19 @@ Hello! Welcome to my GitHub Page for Operating Systems 2022-2 (Odd Semester 22/2
 💻[HOME]({{ site.baseurl }}/) -•-
 🔗[LINKS]({{ site.baseurl }}/LINKS/) -•-
 💡[TIPS]({{ site.baseurl }}/TIPS/) -•-
+📢[PUBLIC KEY] (joshuanadeak.github.io/os222/TXT/mypubkey.txt) -•-
 📄[LOG]({{ site.baseurl }}{{ site.myloglink }}) -•-
 ✒️[TARBALL]({{ site.tarballlink }}) -•-
 📎[GITHUB]({{ site.githublink }})
 <br>
 <hr>
-Name:		Joshua Mihai Daniel Nadeak
+Name:           Joshua Mihai Daniel Nadeak
 <br>
-Github Account:	joshuanadeak
+Github Account: joshuanadeak
 <br>
-Student ID:	2106635285
+Student ID:     2106635285
 <br>
-OS Class:	B
+OS Class:       B
 <br>
 <span style="color:blue; font-weight:bold; font-size:larger;"><i>Have A Nice Day!</i></span>
 <br>
