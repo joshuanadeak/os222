@@ -5,6 +5,7 @@ name:         "Joshua Mihai Daniel Nadeak"
 title:        "OS222: Operating Systems 2022-2"
 githublink:   "https://github.com/joshuanadeak/os222"
 myloglink:    "/TXT/mylog.txt"
+mypublickey:  "/TXT/mypubkey.txt"
 myupdatelink:	"/TXT/myupdate.txt"
 tarballlink:  "https://os.vlsm.org/Log/joshuanadeak.tar.bz2.txt"
 encoding:     UTF-8
