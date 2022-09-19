@@ -22,7 +22,7 @@ Hello! Welcome to the Links Part of my GitHub Page for Operating Systems 2022-2 
 1. 🔌[Operating Systems Course Site For Assignment and Misc.](https://os.vlsm.org/)🔌<br>
 This link contains all our task, infos, and misc. stuff about OS. Which will be the main foundation for our learning especially for noobs like me 😊.
 
-2. 🌎[Google](https://google.com)🌎</br>
+2. 🌎[Google](https://google.com)🌎<br>
 This is the main search engine for our studies in OS (you can also use bing though).
 
 3. ❓[How Do Operating Systems Work?](https://www.youtube.com/watch?v=GjNp0bBrjmU)❓<br>
@@ -42,7 +42,7 @@ This is a short (100 second to be precise) video about bash as a whole. This is 
 7. 👮[Cyber Security In 7 Minutes](https://www.youtube.com/watch?v=inWWhr5tnEA)👮<br>
 This video will give a basic and brief introduction for cybersecurity, which can give us a picture of what cybersecurity is. It's also quite flashy, so it will not be boring for most people.
 
-8. 📖[Learn-C](https://www.learn-c.org/)📖</br>
+8. 📖[Learn-C](https://www.learn-c.org/)📖<br>
 This is a website to learn the C-programming language. For me, it is quite helpful.
 
 9. 🔒[How Do Public and Private Key Work?](https://www.preveil.com/blog/public-and-private-key/)🔒<br>
