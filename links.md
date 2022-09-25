@@ -48,6 +48,16 @@ This is a website to learn the C-programming language. For me, it is quite helpf
 9. 🔒[How Do Public and Private Key Work?](https://www.preveil.com/blog/public-and-private-key/)🔒<br>
 This is an article about the differences between private keys and public keys. It also explains about how it works and why it works like so.
 
+## WEEK 03
+10. 📄[Operating System's File System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)📄<br>
+This is a website (by the classic gfg) that gives an understanding for file systems that we have in OS and also how it works, example some explanation on file allocation.
+
+11. 🐧[Filesystems in Linux](https://likegeeks.com/linux-file-system/)🐧<br>
+This is a website that gives us an easy guide about filesystems in Linux. it gives explanation on what are the linux file system types and also how it's used.
+
+12. 🛠️[USE and It's Documentation](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)🛠️<br>
+This is a website on what is FUSE and how it works. Also, it gives the documentation of FUSE.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
