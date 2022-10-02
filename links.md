@@ -58,6 +58,14 @@ This is a website that gives us an easy guide about filesystems in Linux. it giv
 12. 🛠️[USE and It's Documentation](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)🛠️<br>
 This is a website on what is FUSE and how it works. Also, it gives the documentation of FUSE.
 
+## WEEK 04
+13. 📚[Static Libraries vs. Dynamic Libraries in Linux](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)📚<br>
+This is an article that has a good explanation about the works of static and dynamic libraries in Linux and also how it functions. It is actually quite easy to understand too, so for very recommended for beginners.
+14. 🧠[Basics For Memory Mapping](https://www.ibm.com/docs/en/aix/7.1?topic=memory-understanding-mapping)🧠<br>
+This is an article that explains about Memory Mapping and also how it works. It gives quite a lot of knowledge for functions and also syntax used to actually do the memory mapping.
+15. 🖥️[C Language Memory Management](https://eleceng.dit.ie/frank/IntroToC/Memory.html)🖥️<br>
+This article is quite good to give people some image of how memory management works in C-Language, which is indeed quite interesting. It also shows how the program works too.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
