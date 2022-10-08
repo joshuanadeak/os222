@@ -24,6 +24,12 @@ It might come to a surprise for most that our core of understanding for practica
 But, that is indeed a fact. Even tough we have Silberschatz as our main books for theoretical understanding, practical stuff comes from practice and practice definitely need some background understanding from people that know more than us.
 That is why GSGS™ is da wae. - Zimbabwean Sanik
 
+3. [Care about OS and yourself](https://scele.cs.ui.ac.id)<br>
+Indeed in everything that we do, we must care about it for it to become something fruitful.
+In the Operating Systems Class, we have quite a lot of announcements in Scele and to care is the key of success here.
+Some people may live by the principle of "ignorance is bliss", but the success in this part can only be achieved when we care and want to learn about OS.
+By living to care about what's happening around us and being dutiful to give our best, we will never forget to do anything that's instructed, resulting in a high score. 
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

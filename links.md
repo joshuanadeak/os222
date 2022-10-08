@@ -66,6 +66,14 @@ This is an article that explains about Memory Mapping and also how it works. It 
 15. 🖥️[C Language Memory Management](https://eleceng.dit.ie/frank/IntroToC/Memory.html)🖥️<br>
 This article is quite good to give people some image of how memory management works in C-Language, which is indeed quite interesting. It also shows how the program works too.
 
+## WEEK 05
+16. 👓[Operating System's Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)👓<br>
+This is an article that describes the concept of virtual memory in the context of operating system. It also has some pictures to visualize the concept of how virtual memory works in operating system.
+17. 🧠[Algorithms for Memory Allocation](https://valelab4.ucsf.edu/svn/3rdpartypublic/boost/doc/html/interprocess/memory_algorithms.html)🧠<br>
+This is an article that explains about an advanced algorithm using red-black trees to sort the free portions of the memory segment by size. This allows logarithmic complexity allocation. Apart from this, a doubly-linked list of all portions of memory (free and allocated) is maintained to allow constant-time access to previous and next blocks when doing merging operations.
+18. 🖼️[C Language Memory Management](https://www.geeksforgeeks.org/operating-system-allocation-frames/)🖼️<br>
+This article is quite good to give people some image about frame allocation algorithms, that are used if you have multiple processes. It helps decide how many frames to allocate to each process.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
