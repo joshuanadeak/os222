@@ -75,3 +75,14 @@ ZCZC W06  65 L05 A Little Exercise Before The Quiz 1 and 2 combined.
 ZCZC W06 210 L06 Books/GSGS related learning.
 ZCZC W06  25 L08 Chatting OS Related stuff with friend on Discord.
 ZCZC W06 120 L16 Understanding forks and shared memory, reviewing 10 links, downloading scripts, and finishing.
+ZCZC W07  60 L00 General, etc.
+ZCZC W07  35 L01 SCELE/Discord related.
+ZCZC W07 110 L02 Offline class related (Tuesday).
+ZCZC W07 112 L02 Offline class related (Thursday).
+ZCZC W07  10 L03 GitHub related (4 Git Mantras).
+ZCZC W07  25 L04 GitHub Pages related (Updating for tips and stuff).
+ZCZC W07   8 L05 QUIZ 1 and 2 related.
+ZCZC W07  67 L05 A Little Exercise Before The Quiz 1 and 2 combined.
+ZCZC W07 200 L06 Books/GSGS related learning.
+ZCZC W07  30 L08 Chatting OS Related stuff with friend on Discord.
+ZCZC W07 120 L17 Understanding synchronization, reviewing 10 links, downloading scripts, and finishing.

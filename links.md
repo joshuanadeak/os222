@@ -82,6 +82,14 @@ This is an article that explains about how fork() actually works, it also gives 
 21. ⛓️[The Difference Between Concurrent and Parallel Processes](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)⛓️<br>
 This article is quite good to give people a picture on how concurrent and parallel processes work and differ. In here we will understand about multithreading and a lot more, that can help us understand about processes even further.
 
+## WEEK 07
+22. 🔒[The Process of Synchronization and Deadlocks](https://humphryscomputing.com/Notes/OS/synch.html)🔒<br>
+This article is quite good to give people a picture on the concepts of process synchronisation and deadlocks! This website also contains some excerpt C codes to give practical examples of them. For people that like visualization more than texts, this website is very recommended.
+23. 🔐[The Characterization of Deadlocks](https://www.tutorialspoint.com/deadlock-characterization)🔐<br>
+This is an article that explains about how deadlocks work and also it will give the characterization of deadlocks, so that we may know about it.
+24. 🎗️[How to Prevent Deadlocks](https://www.geeksforgeeks.org/deadlock-prevention/)🎗️<br>
+This article is quite good to give people a picture on how deadlock prevention works. For instance, deadlock has the following characteristics: Mutual Exclusion, Hold and Wait, No preemption, Circular wait. We can prevent Deadlock by eliminating any of four conditions.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
