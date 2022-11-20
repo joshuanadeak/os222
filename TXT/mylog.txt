@@ -86,3 +86,14 @@ ZCZC W07  67 L05 A Little Exercise Before The Quiz 1 and 2 combined.
 ZCZC W07 200 L06 Books/GSGS related learning.
 ZCZC W07  30 L08 Chatting OS Related stuff with friend on Discord.
 ZCZC W07 120 L17 Understanding synchronization, reviewing 10 links, downloading scripts, and finishing.
+ZCZC W08  65 L00 General, etc.
+ZCZC W08  30 L01 SCELE/Discord related.
+ZCZC W08 115 L02 Offline class related (Tuesday).
+ZCZC W08 110 L02 Online class related (Thursday).
+ZCZC W08  10 L03 GitHub related (4 Git Mantras).
+ZCZC W08  30 L04 GitHub Pages related (Updating for tips and stuff).
+ZCZC W08   8 L05 QUIZ 1 and 2 related.
+ZCZC W08  60 L05 A Little Exercise Before The Quiz 1 and 2 combined.
+ZCZC W08 205 L06 Books/GSGS related learning.
+ZCZC W08  60 L08 Chatting OS Related stuff with friend on Discord.
+ZCZC W08 300 L18 Linux From Scratch 1 to 5, reviewing 10 links, downloading scripts, and finishing.

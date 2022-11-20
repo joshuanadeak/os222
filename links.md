@@ -90,6 +90,14 @@ This is an article that explains about how deadlocks work and also it will give 
 24. 🎗️[How to Prevent Deadlocks](https://www.geeksforgeeks.org/deadlock-prevention/)🎗️<br>
 This article is quite good to give people a picture on how deadlock prevention works. For instance, deadlock has the following characteristics: Mutual Exclusion, Hold and Wait, No preemption, Circular wait. We can prevent Deadlock by eliminating any of four conditions.
 
+## WEEK 08
+25. 🚩[Multiprocessing](https://www.geeksforgeeks.org/difference-between-asymmetric-and-symmetric-multiprocessing/)🚩<br>
+This article is quite good to give people a picture on the concepts of process multiprocessing! This website also contains stuff to learn about the difference between Asymmetric and Symmetric Multiprocessing.
+26. 📙[Preemptive and non-preemptive scheduling](https://www.guru99.com/preemptive-vs-non-preemptive-scheduling.html)📙<br>
+This is an article that explains about how preemptive and non-preemptive scheduling work, also it will give the characterization of preemptive and non-preemptive scheduling work, so that we may know about it.
+27. 💻[Intro to CPU Scheduling](https://www.youtube.com/watch?v=EWkQl0n0w5M)💻<br>
+This video is very good for basics in CPU Scheduling, especially the ones that we learn in Operating Systems.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
